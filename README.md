@@ -95,6 +95,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [coremltools](https://github.com/apple/coremltools): Core ML community tools contains all supporting tools for CoreML model conversion and validation. This includes Scikit Learn, LIBSVM, Caffe, Keras and XGBoost.
 * [Bender](https://github.com/xmartlabs/Bender): Bender is an abstraction layer over MetalPerformanceShaders useful for working with neural networks.
 * [StyleArt](https://github.com/ileafsolutions/StyleArt): The Style Art library processes images using Core ML with a set of pre trained machine learning models and converts them to different art styles.
+* [LocoKit](https://github.com/sobri909/LocoKit): Location, motion, and activity recording framework for iOS; includes the ability to classify device activity by mode of transport.
 
 ## Android <a name="androidcode"></a>
 * [awesome-android](https://github.com/JStumpp/awesome-android): A curated list of awesome Android packages and resources.
