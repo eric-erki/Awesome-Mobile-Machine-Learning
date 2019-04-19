@@ -256,6 +256,8 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Using Generative Deep Learning Models On-Device](https://heartbeat.fritz.ai/using-generative-deep-learning-models-on-device-c37aa74ae4dd?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
 * [Build and AI-Powered Artistic Style Transfer App with Fritz and React Native](https://heartbeat.fritz.ai/build-an-ai-powered-artistic-style-transfer-app-with-fritz-and-react-native-fe69c3601663?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
 * [How to use the Style Transfer API in React Native with Fritz](https://heartbeat.fritz.ai/build-an-ai-powered-artistic-style-transfer-app-with-fritz-and-react-native-fe69c3601663)
+* [Machine Learning and Augmented Reality Combined in One Sleek Mobile App – How We Built CarLens](https://www.netguru.com/blog/machine-learning-and-augmented-reality-combined-in-one-sleek-mobile-app-how-we-built-car-lens)
+* [Increasing the Accuracy of the Machine Learning Model in the CarLens Mobile App](https://www.netguru.com/blog/improving-machine-learning-model-carlens-case-study)
 
 
 ### Edge/Browser
