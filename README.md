@@ -264,6 +264,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [How to use the Style Transfer API in React Native with Fritz](https://heartbeat.fritz.ai/build-an-ai-powered-artistic-style-transfer-app-with-fritz-and-react-native-fe69c3601663)
 * [Machine Learning and Augmented Reality Combined in One Sleek Mobile App – How We Built CarLens](https://www.netguru.com/blog/machine-learning-and-augmented-reality-combined-in-one-sleek-mobile-app-how-we-built-car-lens)
 * [Increasing the Accuracy of the Machine Learning Model in the CarLens Mobile App](https://www.netguru.com/blog/improving-machine-learning-model-carlens-case-study)
+* [How to build custom TensorFlow binary for Android and iOS](https://medium.com/@vvalouch/how-to-build-custom-tensorflow-binary-for-android-and-ios-29d107690af9)
 
 
 ### Edge/Browser
