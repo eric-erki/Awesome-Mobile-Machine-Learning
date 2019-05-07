@@ -160,6 +160,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [How to Get a Core ML Model to Produce Images as Output](https://cutecoder.org/programming/core-ml-image-output/)
 * [Recreate Dominos Points for Pies app on iOS with Fritz Image Labeling](https://heartbeat.fritz.ai/recreate-dominos-points-for-pies-app-on-ios-with-fritz-image-labeling-2ed23398e1c2)
 * [Try on a new style—Build an iOS app to change your hair color with Fritz Hair Segmentation](https://heartbeat.fritz.ai/try-on-a-new-style-build-an-ios-app-to-change-your-hair-color-with-fritz-hair-segmentation-177324b077b3)
+* [Building a simple lane detection iOS app using OpenCV](https://medium.com/@anuragajwani/building-a-simple-lane-detection-ios-app-using-opencv-4f70d8a6e6bc)
 
 ### Natural Language Processing
 * [Implementing a Natural Language Classifier in iOS with Keras + Core ML](https://heartbeat.fritz.ai/implementing-a-natural-language-classifier-in-ios-with-keras-core-ml-358f114c0b51?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
@@ -219,6 +220,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Applying TensorFlow in Android in 4 steps](https://medium.com/@elye.project/applying-tensorflow-in-android-in-4-steps-to-recognize-superhero-f224597eb055)
 * [Working with the OpenCv Camera for Android: Rotating, Orienting, and Scaling](https://heartbeat.fritz.ai/working-with-the-opencv-camera-for-android-rotating-orienting-and-scaling-c7006c3e1916?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
 * [Embrace your new look with Hair Segmentation by Fritz—Now available for Android developers](https://heartbeat.fritz.ai/embrace-your-new-look-with-hair-segmentation-by-fritz-now-available-for-android-developers-f20f5b4e9ae1)
+* [Using TensorFlow Lite and ML Kit to build custom machine learning models for Android](https://heartbeat.fritz.ai/using-tensorflow-lite-and-ml-kit-to-build-custom-machine-learning-models-for-android-a7e272d3c61e)
 
 ### Natural Language Processing
 * [Implementing ML Kit’s Smart Reply API in an Android App](https://heartbeat.fritz.ai/implementing-ml-kits-smart-reply-api-in-an-android-app-d031183764b7?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
@@ -277,6 +279,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [How to run a Keras model on Jetson Nano](https://www.dlology.com/blog/how-to-run-keras-model-on-jetson-nano/)
 * [Build AI that works offline with Coral Dev Board, Edge TPU, and TensorFlow Lite](https://medium.com/tensorflow/build-ai-that-works-offline-with-coral-dev-board-edge-tpu-and-tensorflow-lite-7074a9fd0172)
 * [Google Coral Edge TPU vs NVIDIA Jetson Nano: A quick deep dive into EdgeAI performance](https://blog.usejournal.com/google-coral-edge-tpu-vs-nvidia-jetson-nano-a-quick-deep-dive-into-edgeai-performance-bc7860b8d87a)
+* [Benchmarking Edge Computing](https://medium.com/@aallan/benchmarking-edge-computing-ce3f13942245)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
