@@ -281,6 +281,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Build AI that works offline with Coral Dev Board, Edge TPU, and TensorFlow Lite](https://medium.com/tensorflow/build-ai-that-works-offline-with-coral-dev-board-edge-tpu-and-tensorflow-lite-7074a9fd0172)
 * [Google Coral Edge TPU vs NVIDIA Jetson Nano: A quick deep dive into EdgeAI performance](https://blog.usejournal.com/google-coral-edge-tpu-vs-nvidia-jetson-nano-a-quick-deep-dive-into-edgeai-performance-bc7860b8d87a)
 * [Benchmarking Edge Computing](https://medium.com/@aallan/benchmarking-edge-computing-ce3f13942245)
+* [Merging TensorFlow Lite and μTensor](https://blog.hackster.io/merging-tensorflow-lite-and-%CE%BCtensor-c7abfa38208f)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
