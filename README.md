@@ -282,6 +282,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Google Coral Edge TPU vs NVIDIA Jetson Nano: A quick deep dive into EdgeAI performance](https://blog.usejournal.com/google-coral-edge-tpu-vs-nvidia-jetson-nano-a-quick-deep-dive-into-edgeai-performance-bc7860b8d87a)
 * [Benchmarking Edge Computing](https://medium.com/@aallan/benchmarking-edge-computing-ce3f13942245)
 * [Merging TensorFlow Lite and μTensor](https://blog.hackster.io/merging-tensorflow-lite-and-%CE%BCtensor-c7abfa38208f)
+* [Object detection and image classification with Google Coral USB Accelerator](https://www.pyimagesearch.com/2019/05/13/object-detection-and-image-classification-with-google-coral-usb-accelerator/)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
