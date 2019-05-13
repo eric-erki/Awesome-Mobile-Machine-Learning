@@ -221,6 +221,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Working with the OpenCv Camera for Android: Rotating, Orienting, and Scaling](https://heartbeat.fritz.ai/working-with-the-opencv-camera-for-android-rotating-orienting-and-scaling-c7006c3e1916?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
 * [Embrace your new look with Hair Segmentation by Fritz—Now available for Android developers](https://heartbeat.fritz.ai/embrace-your-new-look-with-hair-segmentation-by-fritz-now-available-for-android-developers-f20f5b4e9ae1)
 * [Using TensorFlow Lite and ML Kit to build custom machine learning models for Android](https://heartbeat.fritz.ai/using-tensorflow-lite-and-ml-kit-to-build-custom-machine-learning-models-for-android-a7e272d3c61e)
+* [Solve WordSearch games with Android and ML Kit](https://medium.com/@joaolaq/solve-wordsearch-games-with-android-and-ml-kit-34cf9a9ee30e)
 
 ### Natural Language Processing
 * [Implementing ML Kit’s Smart Reply API in an Android App](https://heartbeat.fritz.ai/implementing-ml-kits-smart-reply-api-in-an-android-app-d031183764b7?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
