@@ -161,6 +161,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Recreate Dominos Points for Pies app on iOS with Fritz Image Labeling](https://heartbeat.fritz.ai/recreate-dominos-points-for-pies-app-on-ios-with-fritz-image-labeling-2ed23398e1c2)
 * [Try on a new style—Build an iOS app to change your hair color with Fritz Hair Segmentation](https://heartbeat.fritz.ai/try-on-a-new-style-build-an-ios-app-to-change-your-hair-color-with-fritz-hair-segmentation-177324b077b3)
 * [Building a simple lane detection iOS app using OpenCV](https://medium.com/@anuragajwani/building-a-simple-lane-detection-ios-app-using-opencv-4f70d8a6e6bc)
+* [Powering an iOS app with ML: How to get started using Create ML and Core ML](https://www.welcometothejungle.co/fr/articles/ios-machine-learning)
 
 ### Natural Language Processing
 * [Implementing a Natural Language Classifier in iOS with Keras + Core ML](https://heartbeat.fritz.ai/implementing-a-natural-language-classifier-in-ios-with-keras-core-ml-358f114c0b51?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
