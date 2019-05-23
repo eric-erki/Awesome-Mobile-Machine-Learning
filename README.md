@@ -287,6 +287,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Merging TensorFlow Lite and μTensor](https://blog.hackster.io/merging-tensorflow-lite-and-%CE%BCtensor-c7abfa38208f)
 * [Object detection and image classification with Google Coral USB Accelerator](https://www.pyimagesearch.com/2019/05/13/object-detection-and-image-classification-with-google-coral-usb-accelerator/)
 * [Build a Hardware-based Face Recognition System for $150 with the Nvidia Jetson Nano and Python](https://medium.com/@ageitgey/build-a-hardware-based-face-recognition-system-for-150-with-the-nvidia-jetson-nano-and-python-a25cb8c891fd)
+* [A Brief Guide to the Intel Movidius Neural Compute Stick with Raspberry Pi 3](https://heartbeat.fritz.ai/a-brief-guide-to-intel-movidius-neural-compute-stick-with-raspberry-pi-3-f60bf7683d40)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
