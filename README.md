@@ -268,6 +268,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Machine Learning and Augmented Reality Combined in One Sleek Mobile App – How We Built CarLens](https://www.netguru.com/blog/machine-learning-and-augmented-reality-combined-in-one-sleek-mobile-app-how-we-built-car-lens)
 * [Increasing the Accuracy of the Machine Learning Model in the CarLens Mobile App](https://www.netguru.com/blog/improving-machine-learning-model-carlens-case-study)
 * [How to build custom TensorFlow binary for Android and iOS](https://medium.com/@vvalouch/how-to-build-custom-tensorflow-binary-for-android-and-ios-29d107690af9)
+* [Testing TensorFlow Lite image classification model](https://thinkmobile.dev/testing-tensorflow-lite-image-classification-model/)
 
 
 ### Edge/Browser
