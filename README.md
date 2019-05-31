@@ -162,6 +162,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Try on a new style—Build an iOS app to change your hair color with Fritz Hair Segmentation](https://heartbeat.fritz.ai/try-on-a-new-style-build-an-ios-app-to-change-your-hair-color-with-fritz-hair-segmentation-177324b077b3)
 * [Building a simple lane detection iOS app using OpenCV](https://medium.com/@anuragajwani/building-a-simple-lane-detection-ios-app-using-opencv-4f70d8a6e6bc)
 * [Powering an iOS app with ML: How to get started using Create ML and Core ML](https://www.welcometothejungle.co/fr/articles/ios-machine-learning)
+* [Live Face Tracking on iOS using Vision Framework](https://medium.com/@anuragajwani/live-face-tracking-on-ios-using-vision-framework-adf8a1799233)
 
 ### Natural Language Processing
 * [Implementing a Natural Language Classifier in iOS with Keras + Core ML](https://heartbeat.fritz.ai/implementing-a-natural-language-classifier-in-ios-with-keras-core-ml-358f114c0b51?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
@@ -224,6 +225,8 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Using TensorFlow Lite and ML Kit to build custom machine learning models for Android](https://heartbeat.fritz.ai/using-tensorflow-lite-and-ml-kit-to-build-custom-machine-learning-models-for-android-a7e272d3c61e)
 * [Solve WordSearch games with Android and ML Kit](https://medium.com/@joaolaq/solve-wordsearch-games-with-android-and-ml-kit-34cf9a9ee30e)
 * [Inspecting TensorFlow Lite image classification model](https://thinkmobile.dev/inspecting-tensorflow-lite-image-classification-model/#more-46)
+* [Building a real-time object detection app on Android using Firebase ML Kit](https://heartbeat.fritz.ai/building-a-real-time-object-detection-app-on-android-using-firebase-ml-kit-c72c99daf46f)
+* [Testing TensorFlow Lite image classification model](https://thinkmobile.dev/testing-tensorflow-lite-image-classification-model/)
 
 ### Natural Language Processing
 * [Implementing ML Kit’s Smart Reply API in an Android App](https://heartbeat.fritz.ai/implementing-ml-kits-smart-reply-api-in-an-android-app-d031183764b7?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
