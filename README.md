@@ -343,3 +343,4 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Machine, Think!](https://machinethink.net/blog/): Matthijs Hollemans’s blog that features deep dives on topics related to deep learning on iOS.
 * [Pete Warden’s Blog](https://petewarden.com/): Pete Warden is the CTO of Jetpac and writes about a variety of ML topics, including frequent looks at issues in mobile/edge ML.
 * [Machine Learning Mastery](https://machinelearningmastery.com/): Jason Brownlee's library of quick-start guides, tutorials, and e-books, all designed to help developers learn machine learning.
+* [Think, mobile!](https://thinkmobile.dev/): Mirek Stanek's excellent blog covering a range of topics on mobile intelligence.
