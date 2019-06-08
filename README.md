@@ -194,6 +194,9 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Machine Learning in iOS: IBM Watson and Core ML](https://medium.com/flawless-app-stories/detecting-avengers-superheroes-in-your-ios-app-with-ibm-watson-and-coreml-fe38e493a4d1)
 * [Running Keras models on iOS with Core ML](https://www.pyimagesearch.com/2018/04/23/running-keras-models-on-ios-with-coreml/)
 * [TensorFlow to Core ML conversion and model inspection](https://thinkmobile.dev/tensorflow-to-coreml-conversion-and-model-inspection/)
+* [An in-depth look at Core ML 3](https://machinethink.net/blog/new-in-coreml3/)
+
+### Other
 * [Ray Wenderlich iOS Machine Learning Tutorials](https://www.raywenderlich.com/library?domain_ids%5B%5D=1&category_ids%5B%5D=158)
 
 ## Android <a name="androidtutorials"></a>
