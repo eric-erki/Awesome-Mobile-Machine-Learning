@@ -232,6 +232,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Inspecting TensorFlow Lite image classification model](https://thinkmobile.dev/inspecting-tensorflow-lite-image-classification-model/#more-46)
 * [Building a real-time object detection app on Android using Firebase ML Kit](https://heartbeat.fritz.ai/building-a-real-time-object-detection-app-on-android-using-firebase-ml-kit-c72c99daf46f)
 * [Testing TensorFlow Lite image classification model](https://thinkmobile.dev/testing-tensorflow-lite-image-classification-model/)
+* [Automate testing of TensorFlow Lite model implementation](https://thinkmobile.dev/automate-testing-of-tensorflow-lite-model-implementation/)
 
 ### Natural Language Processing
 * [Implementing ML Kit’s Smart Reply API in an Android App](https://heartbeat.fritz.ai/implementing-ml-kits-smart-reply-api-in-an-android-app-d031183764b7?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
