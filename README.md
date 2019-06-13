@@ -54,6 +54,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Fast.ai](https://www.fast.ai/about/)
 * [Kaggle: The place to do data science projects](https://www.kaggle.com/)
 * [Awesome Data Science with Python](https://github.com/r0f1/datascience): A curated list of awesome resources for practicing data science using Python, including not only libraries, but also links to tutorials, code snippets, blog posts and talks.
+* [The Fundamentals of Machine Learning](https://www.interactions.com/resources/technology/fundamentals-machine-learning/): An excellent white paper from Interactions that covers the history, definitions, and current applications of machine learning
 
 # Mobile Machine Learning Frameworks <a name="frameworks"></a>
 
