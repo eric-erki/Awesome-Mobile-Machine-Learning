@@ -164,6 +164,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Building a simple lane detection iOS app using OpenCV](https://medium.com/@anuragajwani/building-a-simple-lane-detection-ios-app-using-opencv-4f70d8a6e6bc)
 * [Powering an iOS app with ML: How to get started using Create ML and Core ML](https://www.welcometothejungle.co/fr/articles/ios-machine-learning)
 * [Live Face Tracking on iOS using Vision Framework](https://medium.com/@anuragajwani/live-face-tracking-on-ios-using-vision-framework-adf8a1799233)
+* [Text recognition on iOS 13 with Vision, SwiftUI and Combine](https://martinmitrevski.com/2019/06/16/text-recognition-on-ios-13-with-vision-swiftui-and-combine/)
 
 ### Natural Language Processing
 * [Implementing a Natural Language Classifier in iOS with Keras + Core ML](https://heartbeat.fritz.ai/implementing-a-natural-language-classifier-in-ios-with-keras-core-ml-358f114c0b51?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
