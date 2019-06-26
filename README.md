@@ -196,6 +196,8 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Running Keras models on iOS with Core ML](https://www.pyimagesearch.com/2018/04/23/running-keras-models-on-ios-with-coreml/)
 * [TensorFlow to Core ML conversion and model inspection](https://thinkmobile.dev/tensorflow-to-coreml-conversion-and-model-inspection/)
 * [An in-depth look at Core ML 3](https://machinethink.net/blog/new-in-coreml3/)
+* [What's new in Core ML 3](https://heartbeat.fritz.ai/whats-new-in-core-ml-3-d108d352e50a)
+* [Hello, Core ML 3](https://articlesbycyril.com/ios-engineering/hello_coreml_3.html)
 
 ### Other
 * [Ray Wenderlich iOS Machine Learning Tutorials](https://www.raywenderlich.com/library?domain_ids%5B%5D=1&category_ids%5B%5D=158)
@@ -299,6 +301,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Object detection and image classification with Google Coral USB Accelerator](https://www.pyimagesearch.com/2019/05/13/object-detection-and-image-classification-with-google-coral-usb-accelerator/)
 * [Build a Hardware-based Face Recognition System for $150 with the Nvidia Jetson Nano and Python](https://medium.com/@ageitgey/build-a-hardware-based-face-recognition-system-for-150-with-the-nvidia-jetson-nano-and-python-a25cb8c891fd)
 * [A Brief Guide to the Intel Movidius Neural Compute Stick with Raspberry Pi 3](https://heartbeat.fritz.ai/a-brief-guide-to-intel-movidius-neural-compute-stick-with-raspberry-pi-3-f60bf7683d40)
+* [Coral USB Accelerator, TensorFlow Lite C++ API & Raspberry Pi for Edge TPU object detection](https://mechatronicsblog.com/coral-usb-accelerator,-tensorflow-lite-c++-api-&-raspberry-pi-for-edge-tpu-object-detection/)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
