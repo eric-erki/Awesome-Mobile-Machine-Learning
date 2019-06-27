@@ -45,6 +45,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [How to Fit Large Neural Networks on the Edge](https://heartbeat.fritz.ai/how-to-fit-large-neural-networks-on-the-edge-eb621cdbb33?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
 * [Advances in Machine Learning Are Revolutionizing the Mobile App Development Realm](https://www.survivingwithandroid.com/2019/02/how-to-apply-machine-learning-to-android.html)
 * [No cloud required: Why AI’s future is at the edge](https://siliconangle.com/2019/05/26/no-cloud-required-ais-future-edge/)
+* [Comparing Mobile Machine Learning Frameworks](https://heartbeat.fritz.ai/comparing-mobile-machine-learning-frameworks-f8d498c2562a)
 
 ## Getting Started with Data Science and Machine Learning <a name="dsml"></a>
 
