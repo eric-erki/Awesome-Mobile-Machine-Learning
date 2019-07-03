@@ -306,6 +306,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [A Brief Guide to the Intel Movidius Neural Compute Stick with Raspberry Pi 3](https://heartbeat.fritz.ai/a-brief-guide-to-intel-movidius-neural-compute-stick-with-raspberry-pi-3-f60bf7683d40)
 * [Coral USB Accelerator, TensorFlow Lite C++ API & Raspberry Pi for Edge TPU object detection](https://mechatronicsblog.com/coral-usb-accelerator,-tensorflow-lite-c++-api-&-raspberry-pi-for-edge-tpu-object-detection/)
 * [Portable Computer Vision: TensorFlow 2.0 on a Raspberry Pi (Part 1 of 2)](https://towardsdatascience.com/portable-computer-vision-tensorflow-2-0-on-a-raspberry-pi-part-1-of-2-84e318798ce9)
+* [TensorFlow Lite Ported to Arduino](https://blog.hackster.io/tensorflow-lite-ported-to-arduino-5e851c094ddc)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
