@@ -308,6 +308,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Coral USB Accelerator, TensorFlow Lite C++ API & Raspberry Pi for Edge TPU object detection](https://mechatronicsblog.com/coral-usb-accelerator,-tensorflow-lite-c++-api-&-raspberry-pi-for-edge-tpu-object-detection/)
 * [Portable Computer Vision: TensorFlow 2.0 on a Raspberry Pi (Part 1 of 2)](https://towardsdatascience.com/portable-computer-vision-tensorflow-2-0-on-a-raspberry-pi-part-1-of-2-84e318798ce9)
 * [TensorFlow Lite Ported to Arduino](https://blog.hackster.io/tensorflow-lite-ported-to-arduino-5e851c094ddc)
+* [Getting Started with Edge AI Using the GAP8 Processor](https://blog.hackster.io/getting-started-with-edge-ai-using-the-gap8-processor-f207b511a00c)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
