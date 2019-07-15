@@ -239,6 +239,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Testing TensorFlow Lite image classification model](https://thinkmobile.dev/testing-tensorflow-lite-image-classification-model/)
 * [Automate testing of TensorFlow Lite model implementation](https://thinkmobile.dev/automate-testing-of-tensorflow-lite-model-implementation/)
 * [Build TensorFlow Lite model with Firebase AutoML Vision Edge](https://thinkmobile.dev/build-tensorflow-lite-model-with-firebase-automl-vision-edge/)
+* [Creating a Pet Sticker App on Android with Fritz Pet Segmentation](https://android.jlelse.eu/creating-a-pet-sticker-app-on-android-with-fritz-pet-segmentation-72d158874773)
 
 ### Natural Language Processing
 * [Implementing ML Kit’s Smart Reply API in an Android App](https://heartbeat.fritz.ai/implementing-ml-kits-smart-reply-api-in-an-android-app-d031183764b7?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
