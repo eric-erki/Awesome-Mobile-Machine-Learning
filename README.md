@@ -309,6 +309,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Portable Computer Vision: TensorFlow 2.0 on a Raspberry Pi (Part 1 of 2)](https://towardsdatascience.com/portable-computer-vision-tensorflow-2-0-on-a-raspberry-pi-part-1-of-2-84e318798ce9)
 * [TensorFlow Lite Ported to Arduino](https://blog.hackster.io/tensorflow-lite-ported-to-arduino-5e851c094ddc)
 * [Getting Started with Edge AI Using the GAP8 Processor](https://blog.hackster.io/getting-started-with-edge-ai-using-the-gap8-processor-f207b511a00c)
+* [Real-Time Person Tracking on the Edge with a Raspberry Pi](https://heartbeat.fritz.ai/real-time-person-tracking-on-the-edge-with-a-raspberry-pi-93ae636af9fa)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
