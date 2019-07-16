@@ -46,6 +46,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Advances in Machine Learning Are Revolutionizing the Mobile App Development Realm](https://www.survivingwithandroid.com/2019/02/how-to-apply-machine-learning-to-android.html)
 * [No cloud required: Why AI’s future is at the edge](https://siliconangle.com/2019/05/26/no-cloud-required-ais-future-edge/)
 * [Comparing Mobile Machine Learning Frameworks](https://heartbeat.fritz.ai/comparing-mobile-machine-learning-frameworks-f8d498c2562a)
+* [How AI Accelerators Are Changing The Face Of Edge Computing](https://www.forbes.com/sites/janakirammsv/2019/07/15/how-ai-accelerators-are-changing-the-face-of-edge-computing/#3273cd7b674f)
 
 ## Getting Started with Data Science and Machine Learning <a name="dsml"></a>
 
