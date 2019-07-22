@@ -288,6 +288,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Increasing the Accuracy of the Machine Learning Model in the CarLens Mobile App](https://www.netguru.com/blog/improving-machine-learning-model-carlens-case-study)
 * [How to build custom TensorFlow binary for Android and iOS](https://medium.com/@vvalouch/how-to-build-custom-tensorflow-binary-for-android-and-ios-29d107690af9)
 * [Testing TensorFlow Lite image classification model](https://thinkmobile.dev/testing-tensorflow-lite-image-classification-model/)
+* [Deploy ML models using Flask as REST API and access via Flutter app](https://medium.com/analytics-vidhya/deploy-ml-models-using-flask-as-rest-api-and-access-via-flutter-app-7ce63d5c1f3b)
 
 ### Edge/Browser
 * [Using TensorFlow.js to Automate the Chrome Dinosaur Game](https://heartbeat.fritz.ai/automating-chrome-dinosaur-game-part-1-290578f13907?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
