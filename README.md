@@ -180,6 +180,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Introduction to Natural Language Processing in Swift](https://www.appcoda.com/natural-language-processing-swift/)
 * [Train a Text Classification Model with Create ML](https://code.tutsplus.com/articles/train-a-text-classification-model-with-create-ml--cms-32030)
 * [Comparing iOS Text Recognition SDKS Using Delta](https://heartbeat.fritz.ai/comparing-on-device-text-recognition-ocr-sdks-24f8a0423461?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
+* [Sentiment analysis with Natural Language and SwiftUI](https://martinmitrevski.com/2019/07/14/sentiment-analysis-with-natural-language-and-swiftui/?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
 
 ### Model Conversion/Deployment/Management
 * [Reverse Engineering Core ML](https://heartbeat.fritz.ai/reverse-engineering-core-ml-6d6f1c2bdab0?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
