@@ -169,6 +169,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Live Face Tracking on iOS using Vision Framework](https://medium.com/@anuragajwani/live-face-tracking-on-ios-using-vision-framework-adf8a1799233)
 * [Text recognition on iOS 13 with Vision, SwiftUI and Combine](https://martinmitrevski.com/2019/06/16/text-recognition-on-ios-13-with-vision-swiftui-and-combine/)
 * [Unity AR Foundation and CoreML: Hand detection and tracking](https://medium.com/@chen_jd/unity-ar-foundation-and-coreml-hand-detection-and-tracking-b74c592206c5)
+* [Photo Stacking in iOS with Vision and Metal](https://www.raywenderlich.com/3733151-photo-stacking-in-ios-with-vision-and-metal)
 
 ### Natural Language Processing
 * [Implementing a Natural Language Classifier in iOS with Keras + Core ML](https://heartbeat.fritz.ai/implementing-a-natural-language-classifier-in-ios-with-keras-core-ml-358f114c0b51?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
