@@ -162,6 +162,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Creating a Custom Core ML Model Using Python and Turi Create](https://www.appcoda.com/core-ml-model-with-python/)
 * [Detecting Whisky brands with Core ML and IBM Watson services](https://martinmitrevski.com/2018/04/14/detecting-whisky-brands-with-core-ml-and-ibm-watson-services/)
 * [How to Get a Core ML Model to Produce Images as Output](https://cutecoder.org/programming/core-ml-image-output/)
+* [Comparing iOS Text Recognition SDKS Using Delta](https://heartbeat.fritz.ai/comparing-on-device-text-recognition-ocr-sdks-24f8a0423461)
 * [Recreate Dominos Points for Pies app on iOS with Fritz Image Labeling](https://heartbeat.fritz.ai/recreate-dominos-points-for-pies-app-on-ios-with-fritz-image-labeling-2ed23398e1c2)
 * [Try on a new style—Build an iOS app to change your hair color with Fritz Hair Segmentation](https://heartbeat.fritz.ai/try-on-a-new-style-build-an-ios-app-to-change-your-hair-color-with-fritz-hair-segmentation-177324b077b3)
 * [Building a simple lane detection iOS app using OpenCV](https://medium.com/@anuragajwani/building-a-simple-lane-detection-ios-app-using-opencv-4f70d8a6e6bc)
@@ -180,8 +181,8 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Text Recognition and Translation on iOS Using ML Kit and Google Translate](https://heartbeat.fritz.ai/text-recognition-and-translation-on-ios-using-ml-kit-and-google-translate-5b24440906db?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
 * [Introduction to Natural Language Processing in Swift](https://www.appcoda.com/natural-language-processing-swift/)
 * [Train a Text Classification Model with Create ML](https://code.tutsplus.com/articles/train-a-text-classification-model-with-create-ml--cms-32030)
-* [Comparing iOS Text Recognition SDKS Using Delta](https://heartbeat.fritz.ai/comparing-on-device-text-recognition-ocr-sdks-24f8a0423461?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
-* [Sentiment analysis with Natural Language and SwiftUI](https://martinmitrevski.com/2019/07/14/sentiment-analysis-with-natural-language-and-swiftui/?utm_campaign=AppCoda%20Weekly&utm_medium=email&utm_source=Revue%20newsletter)
+* [Sentiment analysis with Natural Language and SwiftUI](https://martinmitrevski.com/2019/07/14/sentiment-analysis-with-natural-language-and-swiftui/)
+* [Introduction to natural language processing in Swift](https://rickwierenga.com/blog/apple/NaturalLanguage.html)
 
 ### Model Conversion/Deployment/Management
 * [Reverse Engineering Core ML](https://heartbeat.fritz.ai/reverse-engineering-core-ml-6d6f1c2bdab0?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
