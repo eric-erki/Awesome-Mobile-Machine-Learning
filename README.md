@@ -250,6 +250,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Running Artificial Neural Networks in Android using OpenCV](https://heartbeat.fritz.ai/running-artificial-neural-networks-in-android-using-opencv-3c5640778578)
 * Plant Disease Classification with TensorFlow Lite on Android - [Part 1](https://medium.com/@yannicksergeobam/plant-disease-classification-with-tensorflow-2-0-268fe7f72c2a) and [Part 2](https://medium.com/@yannicksergeobam/plant-disease-classification-with-tensorflow-lite-on-android-part-2-c2d47371cea3)
 * [Extracting Text from Images on Android](https://www.zoftino.com/extracting-text-from-images-android)
+* [Image Classification on Android using OpenCV](https://heartbeat.fritz.ai/image-classification-on-android-using-opencv-38a01fce53e9)
 
 ### Natural Language Processing
 * [Implementing ML Kit’s Smart Reply API in an Android App](https://heartbeat.fritz.ai/implementing-ml-kits-smart-reply-api-in-an-android-app-d031183764b7?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
@@ -320,6 +321,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [TensorFlow Lite Ported to Arduino](https://blog.hackster.io/tensorflow-lite-ported-to-arduino-5e851c094ddc)
 * [Getting Started with Edge AI Using the GAP8 Processor](https://blog.hackster.io/getting-started-with-edge-ai-using-the-gap8-processor-f207b511a00c)
 * [Real-Time Person Tracking on the Edge with a Raspberry Pi](https://heartbeat.fritz.ai/real-time-person-tracking-on-the-edge-with-a-raspberry-pi-93ae636af9fa)
+* [Building Brains on the Edge](https://blog.hackster.io/building-brains-on-the-edge-245ce1153eb1)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
