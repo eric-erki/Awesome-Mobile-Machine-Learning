@@ -324,6 +324,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Getting Started with Edge AI Using the GAP8 Processor](https://blog.hackster.io/getting-started-with-edge-ai-using-the-gap8-processor-f207b511a00c)
 * [Real-Time Person Tracking on the Edge with a Raspberry Pi](https://heartbeat.fritz.ai/real-time-person-tracking-on-the-edge-with-a-raspberry-pi-93ae636af9fa)
 * [Building Brains on the Edge](https://blog.hackster.io/building-brains-on-the-edge-245ce1153eb1)
+* [Using TensorFlow.js to Train a “Rock-Paper-Scissors” Model](https://heartbeat.fritz.ai/using-tensorflow-js-to-train-a-rock-paper-scissors-model-b5f393b548eb)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
