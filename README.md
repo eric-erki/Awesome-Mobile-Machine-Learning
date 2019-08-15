@@ -173,6 +173,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Unity AR Foundation and CoreML: Hand detection and tracking](https://medium.com/@chen_jd/unity-ar-foundation-and-coreml-hand-detection-and-tracking-b74c592206c5)
 * [Photo Stacking in iOS with Vision and Metal](https://www.raywenderlich.com/3733151-photo-stacking-in-ios-with-vision-and-metal)
 * [Human pose estimation on images for iOS](https://habr.com/en/post/458000/)
+* [MakeML’s Automated Video Annotation Tool for Object Detection on iOS](https://heartbeat.fritz.ai/makemls-automated-video-annotation-tool-for-object-detection-on-ios-889ef7bb5253)
 
 ### Natural Language Processing
 * [Implementing a Natural Language Classifier in iOS with Keras + Core ML](https://heartbeat.fritz.ai/implementing-a-natural-language-classifier-in-ios-with-keras-core-ml-358f114c0b51?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
@@ -255,6 +256,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * Plant Disease Classification with TensorFlow Lite on Android - [Part 1](https://medium.com/@yannicksergeobam/plant-disease-classification-with-tensorflow-2-0-268fe7f72c2a) and [Part 2](https://medium.com/@yannicksergeobam/plant-disease-classification-with-tensorflow-lite-on-android-part-2-c2d47371cea3)
 * [Extracting Text from Images on Android](https://www.zoftino.com/extracting-text-from-images-android)
 * [Image Classification on Android using OpenCV](https://heartbeat.fritz.ai/image-classification-on-android-using-opencv-38a01fce53e9)
+* [Image Classification on Android using a Keras Model Deployed in Flask](https://heartbeat.fritz.ai/image-classification-on-android-using-a-keras-model-deployed-in-flask-118adffc5045)
 
 ### Natural Language Processing
 * [Implementing ML Kit’s Smart Reply API in an Android App](https://heartbeat.fritz.ai/implementing-ml-kits-smart-reply-api-in-an-android-app-d031183764b7?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
@@ -294,6 +296,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Distributing on-device machine learning models with tags and metadata](https://heartbeat.fritz.ai/distributing-on-device-machine-learning-models-with-tags-and-metadata-ccae40f5c059?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
 * [Real-Time 2D/3D Feature Point Extraction from a Mobile Camera](https://heartbeat.fritz.ai/real-time-2d-3d-feature-point-extraction-from-a-mobile-camera-80c9dc3c207a?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
 * [Using Generative Deep Learning Models On-Device](https://heartbeat.fritz.ai/using-generative-deep-learning-models-on-device-c37aa74ae4dd?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
+* [Using Generative Deep Learning Models On-Device, Part 2: Text & Audio](https://heartbeat.fritz.ai/using-generative-deep-learning-models-on-device-part-2-text-audio-1abcc6da5a8)
 * [Build and AI-Powered Artistic Style Transfer App with Fritz and React Native](https://heartbeat.fritz.ai/build-an-ai-powered-artistic-style-transfer-app-with-fritz-and-react-native-fe69c3601663?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
 * [How to use the Style Transfer API in React Native with Fritz](https://heartbeat.fritz.ai/build-an-ai-powered-artistic-style-transfer-app-with-fritz-and-react-native-fe69c3601663)
 * [Machine Learning and Augmented Reality Combined in One Sleek Mobile App – How We Built CarLens](https://www.netguru.com/blog/machine-learning-and-augmented-reality-combined-in-one-sleek-mobile-app-how-we-built-car-lens)
