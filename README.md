@@ -305,6 +305,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [How to build custom TensorFlow binary for Android and iOS](https://medium.com/@vvalouch/how-to-build-custom-tensorflow-binary-for-android-and-ios-29d107690af9)
 * [Testing TensorFlow Lite image classification model](https://thinkmobile.dev/testing-tensorflow-lite-image-classification-model/)
 * [Deploy ML models using Flask as REST API and access via Flutter app](https://medium.com/analytics-vidhya/deploy-ml-models-using-flask-as-rest-api-and-access-via-flutter-app-7ce63d5c1f3b)
+* [How to Deploy Machine Learning Models on Mobile and Embedded Devices](https://www.freecodecamp.org/news/machine-learning-for-mobile-and-embedded-devices/)
 
 ### Edge/Browser
 * [Using TensorFlow.js to Automate the Chrome Dinosaur Game](https://heartbeat.fritz.ai/automating-chrome-dinosaur-game-part-1-290578f13907?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
@@ -331,6 +332,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Real-Time Person Tracking on the Edge with a Raspberry Pi](https://heartbeat.fritz.ai/real-time-person-tracking-on-the-edge-with-a-raspberry-pi-93ae636af9fa)
 * [Building Brains on the Edge](https://blog.hackster.io/building-brains-on-the-edge-245ce1153eb1)
 * [Using TensorFlow.js to Train a “Rock-Paper-Scissors” Model](https://heartbeat.fritz.ai/using-tensorflow-js-to-train-a-rock-paper-scissors-model-b5f393b548eb)
+* [The Big Benchmarking Roundup](https://blog.hackster.io/the-big-benchmarking-roundup-a561fbfe8719)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
