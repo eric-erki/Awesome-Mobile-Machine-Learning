@@ -213,6 +213,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Designing Great Mobile ML Experiences](https://heartbeat.fritz.ai/designing-great-ml-experiences-251abcc83669)
 * [On-device training with Core ML – part 1](https://machinethink.net/blog/coreml-training-part1/)
 * [On-device training with Core ML - part 2](https://machinethink.net/blog/coreml-training-part2/)
+* [Exploring the new ML Kit features on iOS using Swift](https://heartbeat.fritz.ai/exploring-the-new-ml-kit-features-on-ios-using-swift-10e4a8d7379f)
 
 ### Other
 * [Ray Wenderlich iOS Machine Learning Tutorials](https://www.raywenderlich.com/library?domain_ids%5B%5D=1&category_ids%5B%5D=158)
