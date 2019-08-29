@@ -175,6 +175,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Human pose estimation on images for iOS](https://habr.com/en/post/458000/)
 * [MakeML’s Automated Video Annotation Tool for Object Detection on iOS](https://heartbeat.fritz.ai/makemls-automated-video-annotation-tool-for-object-detection-on-ios-889ef7bb5253)
 * [Evaluate Construction Site Safety on iOS using Machine Learning](https://heartbeat.fritz.ai/evaluate-construction-site-safety-on-ios-using-machine-learning-b9a731b7e2d3)
+* [MakeML: Nail Segmentation on iOS](https://makeml.app/docs/nails_tutorial_intro)
 
 ### Natural Language Processing
 * [Implementing a Natural Language Classifier in iOS with Keras + Core ML](https://heartbeat.fritz.ai/implementing-a-natural-language-classifier-in-ios-with-keras-core-ml-358f114c0b51?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
