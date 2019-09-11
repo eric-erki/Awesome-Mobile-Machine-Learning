@@ -190,6 +190,7 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Introduction to natural language processing in Swift](https://rickwierenga.com/blog/apple/NaturalLanguage.html)
 * [Using Core ML and Natural Language for Sentiment Analysis on iOS](https://heartbeat.fritz.ai/using-core-ml-and-natural-language-for-sentiment-analysis-on-ios-d9469ce6c0ef)
 * [Text Classification on iOS Using Create ML](https://heartbeat.fritz.ai/text-classification-on-ios-using-create-ml-f71d7191404a)
+* [4 Techniques You Must Know for Natural Language Processing on iOS](https://heartbeat.fritz.ai/4-techniques-you-must-know-for-natural-language-processing-on-ios-7bfcd5da9d20)
 
 ### Model Conversion/Deployment/Management
 * [Reverse Engineering Core ML](https://heartbeat.fritz.ai/reverse-engineering-core-ml-6d6f1c2bdab0?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
