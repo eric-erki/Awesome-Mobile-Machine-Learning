@@ -192,6 +192,9 @@ A list of awesome mobile machine learning resources curated by [Fritz](https://f
 * [Text Classification on iOS Using Create ML](https://heartbeat.fritz.ai/text-classification-on-ios-using-create-ml-f71d7191404a)
 * [4 Techniques You Must Know for Natural Language Processing on iOS](https://heartbeat.fritz.ai/4-techniques-you-must-know-for-natural-language-processing-on-ios-7bfcd5da9d20)
 
+### Speech / Audio
+* [Building a Sound Classification iOS Application using AI](https://heartbeat.fritz.ai/building-a-sound-classification-ios-application-using-ai-1655506d1763)
+
 ### Model Conversion/Deployment/Management
 * [Reverse Engineering Core ML](https://heartbeat.fritz.ai/reverse-engineering-core-ml-6d6f1c2bdab0?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
 * [How to fine-tune ResNet in Keras and use it in an iOS app via Core ML](https://heartbeat.fritz.ai/how-to-fine-tune-resnet-in-keras-and-use-it-in-an-ios-app-via-core-ml-ee7fd84c1b26?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
