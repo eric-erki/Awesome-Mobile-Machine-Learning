@@ -346,6 +346,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 * [Building Brains on the Edge](https://blog.hackster.io/building-brains-on-the-edge-245ce1153eb1)
 * [Using TensorFlow.js to Train a “Rock-Paper-Scissors” Model](https://heartbeat.fritz.ai/using-tensorflow-js-to-train-a-rock-paper-scissors-model-b5f393b548eb)
 * [The Big Benchmarking Roundup](https://blog.hackster.io/the-big-benchmarking-roundup-a561fbfe8719)
+* [Comprehensive TensorFlow.js Example](https://towardsdatascience.com/comprehensive-tensorflow-js-example-96367625fab7)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
