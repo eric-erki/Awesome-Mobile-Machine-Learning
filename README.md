@@ -181,6 +181,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 * [MakeML’s Automated Video Annotation Tool for Object Detection on iOS](https://heartbeat.fritz.ai/makemls-automated-video-annotation-tool-for-object-detection-on-ios-889ef7bb5253)
 * [Evaluate Construction Site Safety on iOS using Machine Learning](https://heartbeat.fritz.ai/evaluate-construction-site-safety-on-ios-using-machine-learning-b9a731b7e2d3)
 * [MakeML: Nail Segmentation on iOS](https://makeml.app/docs/nails_tutorial_intro)
+* [Logo Recognition iOS Application Using Machine Learning and Flask API](https://heartbeat.fritz.ai/logo-recognition-ios-application-using-machine-learning-and-flask-api-aec4eff3be11)
 
 ### Natural Language Processing
 * [Implementing a Natural Language Classifier in iOS with Keras + Core ML](https://heartbeat.fritz.ai/implementing-a-natural-language-classifier-in-ios-with-keras-core-ml-358f114c0b51?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
@@ -226,6 +227,8 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 * [On-device training with Core ML - part 2](https://machinethink.net/blog/coreml-training-part2/)
 * [Exploring the new ML Kit features on iOS using Swift](https://heartbeat.fritz.ai/exploring-the-new-ml-kit-features-on-ios-using-swift-10e4a8d7379f)
 * [Introduction to Machine Learning for iOS Developers](https://heartbeat.fritz.ai/introduction-to-machine-learning-for-ios-developers-ae26db9782bd)
+* [How To Create Updatable Models Using Core ML 3](https://medium.com/better-programming/how-to-create-updatable-models-using-core-ml-3-cc7decd517d5)
+* [Build iOS-ready machine learning models using Create ML](https://heartbeat.fritz.ai/build-ios-ready-machine-learning-models-using-create-ml-cf35091f6f8c)
 
 ### Other
 * [Ray Wenderlich iOS Machine Learning Tutorials](https://www.raywenderlich.com/library?domain_ids%5B%5D=1&category_ids%5B%5D=158)
@@ -271,6 +274,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 * [Extracting Text from Images on Android](https://www.zoftino.com/extracting-text-from-images-android)
 * [Image Classification on Android using OpenCV](https://heartbeat.fritz.ai/image-classification-on-android-using-opencv-38a01fce53e9)
 * [Image Classification on Android using a Keras Model Deployed in Flask](https://heartbeat.fritz.ai/image-classification-on-android-using-a-keras-model-deployed-in-flask-118adffc5045)
+* [Flutter Face Detection](https://medium.com/flutter-community/flutter-face-detection-ac18e3e2211f)
 
 ### Natural Language Processing
 * [Implementing ML Kit’s Smart Reply API in an Android App](https://heartbeat.fritz.ai/implementing-ml-kits-smart-reply-api-in-an-android-app-d031183764b7?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
@@ -319,6 +323,8 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 * [Testing TensorFlow Lite image classification model](https://thinkmobile.dev/testing-tensorflow-lite-image-classification-model/)
 * [Deploy ML models using Flask as REST API and access via Flutter app](https://medium.com/analytics-vidhya/deploy-ml-models-using-flask-as-rest-api-and-access-via-flutter-app-7ce63d5c1f3b)
 * [How to Deploy Machine Learning Models on Mobile and Embedded Devices](https://www.freecodecamp.org/news/machine-learning-for-mobile-and-embedded-devices/)
+* [Real-time Mobile Video Object Detection using Tensorflow](https://towardsdatascience.com/real-time-mobile-video-object-detection-using-tensorflow-a75fa0c5859d)
+* [Create AR experiences with the Fritz Unity SDK — Bird Perch Tutorial with Pose Estimation](https://heartbeat.fritz.ai/create-ar-experiences-with-the-fritz-unity-sdk-bird-perch-tutorial-with-pose-estimation-aff5b85c633b)
 
 ### Edge/Browser
 * [Using TensorFlow.js to Automate the Chrome Dinosaur Game](https://heartbeat.fritz.ai/automating-chrome-dinosaur-game-part-1-290578f13907?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
