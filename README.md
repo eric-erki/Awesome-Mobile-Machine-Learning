@@ -275,6 +275,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 * [Image Classification on Android using OpenCV](https://heartbeat.fritz.ai/image-classification-on-android-using-opencv-38a01fce53e9)
 * [Image Classification on Android using a Keras Model Deployed in Flask](https://heartbeat.fritz.ai/image-classification-on-android-using-a-keras-model-deployed-in-flask-118adffc5045)
 * [Flutter Face Detection](https://medium.com/flutter-community/flutter-face-detection-ac18e3e2211f)
+* [End-to-End tf.Keras to TFLite to Android](https://medium.com/@margaretmz/e2e-tfkeras-tflite-android-273acde6588)
 
 ### Natural Language Processing
 * [Implementing ML Kit’s Smart Reply API in an Android App](https://heartbeat.fritz.ai/implementing-ml-kits-smart-reply-api-in-an-android-app-d031183764b7?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
