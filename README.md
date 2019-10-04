@@ -67,7 +67,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 # Mobile Machine Learning Frameworks <a name="frameworks"></a>
 
 ## Mobile-Ready <a name="mobileready"></a>
-* [Fritz](https://www.fritz.ai/?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning): Fritz is the machine learning platform for iOS and Android developers. Teach your mobile apps to see, hear, sense, and think.
+* [Fritz AI](https://www.fritz.ai/?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning): Fritz AI is the machine learning platform for iOS and Android developers. Teach your mobile apps to see, hear, sense, and think.
 * [Core ML](https://developer.apple.com/documentation/coreml): With Core ML, you can integrate trained machine learning models into your iOS apps.
 * [TensorFlow Lite](https://www.tensorflow.org/lite): TensorFlow Lite is an open source deep learning framework for on-device inference.
 * [Create ML](https://developer.apple.com/documentation/createml): Use Create ML with familiar tools like Swift and macOS playgrounds to create and train custom machine learning models on your Mac.
@@ -126,8 +126,11 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 * [my-awesome-ai-bookmarks](https://github.com/goodrahstar/my-awesome-AI-bookmarks): Curated list of reads, implementations, and core concepts of Artificial Intelligence, Deep Learning, and Machine Learning.
 * [datasets](https://github.com/tensorflow/datasets): A collection of datasets ready to use with TensorFlow
 
-## Fritz Community Resources <a name="fritzcode"></a>
+## Fritz AI Community Resources <a name="fritzcode"></a>
 * [Mobile ML GitHub Repositories](https://www.fritz.ai/resources/mobile-ml-github-repositories.html?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning): List of repos with machine learning models ready for mobile, organized by feature type.
+* [Image Segmentation Guide](https://www.fritz.ai/image-segmentation/?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning): Almost everything you need to know about how image segmentation works.
+* [Pose Estimation Guide](https://www.fritz.ai/pose-estimation/?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning): Almost everything you need to know about how pose estimation works.
+* [Style Transfer Guide](https://www.fritz.ai/style-transfer/?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning): Almost everything you need to know about how style transfer works.
 * [AI Startup Landscape](https://www.fritz.ai/resources/ai-landscape.html?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning): The AI and Machine Learning landscape is rapidly changing. Here’s a list of current organizations and tools, organized by ML lifecycle stage.
 * [AI and Machine Learning Newsletters](https://www.fritz.ai/resources/ai-ml-newsletters.html?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning): Explore a collection of helpful AI and ML newsletters.
 * [Mobile Development Newsletters](https://www.fritz.ai/resources/mobile-newsletters.html?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning): Explore a collection of helpful mobile development newsletters.
