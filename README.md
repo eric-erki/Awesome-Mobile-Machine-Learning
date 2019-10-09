@@ -54,6 +54,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 * [How AI Accelerators Are Changing The Face Of Edge Computing](https://www.forbes.com/sites/janakirammsv/2019/07/15/how-ai-accelerators-are-changing-the-face-of-edge-computing/#3273cd7b674f)
 * [Embedded and mobile deep learning research resources](https://github.com/EMDL/awesome-emdl)
 * [On-Device AI: MIT Technology Review Hub](https://www.technologyreview.com/hub/ubiquitous-on-device-ai/)
+* [The 5 Algorithms for Efficient Deep Learning Inference on Small Devices](https://heartbeat.fritz.ai/the-5-algorithms-for-efficient-deep-learning-inference-on-small-devices-bcc2d18aa806?utm_source=github.com&utm_campaign=awesome_mobile_machine_learning)
 
 ## Getting Started with Data Science and Machine Learning <a name="dsml"></a>
 
