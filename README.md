@@ -192,6 +192,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Evaluate Construction Site Safety on iOS using Machine Learning](https://heartbeat.fritz.ai/evaluate-construction-site-safety-on-ios-using-machine-learning-b9a731b7e2d3?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [MakeML: Nail Segmentation on iOS](https://makeml.app/docs/nails_tutorial_intro)
 - [Logo Recognition iOS Application Using Machine Learning and Flask API](https://heartbeat.fritz.ai/logo-recognition-ios-application-using-machine-learning-and-flask-api-aec4eff3be11?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Style Transfer iOS Application Using Convolutional Neural Networks](https://heartbeat.fritz.ai/style-transfer-on-ios-using-convolutional-neural-networks-616fd748ece4?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Natural Language Processing
 
