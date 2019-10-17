@@ -346,6 +346,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [How to Deploy Machine Learning Models on Mobile and Embedded Devices](https://www.freecodecamp.org/news/machine-learning-for-mobile-and-embedded-devices/)
 - [Real-time Mobile Video Object Detection using Tensorflow](https://towardsdatascience.com/real-time-mobile-video-object-detection-using-tensorflow-a75fa0c5859d)
 - [Create AR experiences with the Fritz Unity SDK — Bird Perch Tutorial with Pose Estimation](https://heartbeat.fritz.ai/create-ar-experiences-with-the-fritz-unity-sdk-bird-perch-tutorial-with-pose-estimation-aff5b85c633b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Image Classification on React Native with TensorFlow.js and MobileNet](https://heartbeat.fritz.ai/image-classification-on-react-native-with-tensorflow-js-and-mobilenet-48a39185717c)
 
 ### Edge/Browser
 
