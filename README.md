@@ -55,6 +55,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Embedded and mobile deep learning research resources](https://github.com/EMDL/awesome-emdl)
 - [On-Device AI: MIT Technology Review Hub](https://www.technologyreview.com/hub/ubiquitous-on-device-ai/)
 - [The 5 Algorithms for Efficient Deep Learning Inference on Small Devices](https://heartbeat.fritz.ai/the-5-algorithms-for-efficient-deep-learning-inference-on-small-devices-bcc2d18aa806?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [PyTorch Mobile: Exploring Facebook’s new mobile machine learning solution](https://heartbeat.fritz.ai/pytorch-mobile-exploring-facebooks-new-mobile-machine-learning-solution-96c99efbfd58?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ## Getting Started with Data Science and Machine Learning <a name="dsml"></a>
 
@@ -293,6 +294,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Image Classification on Android using a Keras Model Deployed in Flask](https://heartbeat.fritz.ai/image-classification-on-android-using-a-keras-model-deployed-in-flask-118adffc5045?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Flutter Face Detection](https://medium.com/flutter-community/flutter-face-detection-ac18e3e2211f)
 - [End-to-End tf.Keras to TFLite to Android](https://medium.com/@margaretmz/e2e-tfkeras-tflite-android-273acde6588)
+- [PyTorch Mobile: Image classification on Android](https://heartbeat.fritz.ai/pytorch-mobile-image-classification-on-android-5c0cfb774c5b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Natural Language Processing
 
