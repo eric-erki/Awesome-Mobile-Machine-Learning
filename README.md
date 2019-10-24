@@ -246,6 +246,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [How To Create Updatable Models Using Core ML 3](https://medium.com/better-programming/how-to-create-updatable-models-using-core-ml-3-cc7decd517d5)
 - [Build iOS-ready machine learning models using Create ML](https://heartbeat.fritz.ai/build-ios-ready-machine-learning-models-using-create-ml-cf35091f6f8c?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Create ML for iOS— Increasing model accuracy](https://heartbeat.fritz.ai/create-ml-for-ios-increasing-model-accuracy-a7474967123b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Incorporating machine learning into iOS Apps](https://medium.com/@pradnya_nikam/incorporating-machine-learning-into-ios-apps-a5eb8bccd915)
 
 ### Other
 
