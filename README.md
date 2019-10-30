@@ -304,6 +304,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Implementing ML Kit’s Smart Reply API in an Android App](https://heartbeat.fritz.ai/implementing-ml-kits-smart-reply-api-in-an-android-app-d031183764b7?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [How to Code Natural Language Processing on Android with IBM Watson](https://code.tutsplus.com/tutorials/natural-language-processing-on-android-with-ibm-watson--cms-29589)
 - [Machine Learning in Action: Building a Universal Translator App for Android with Kotlin](https://medium.com/mindorks/machine-learning-in-action-building-a-universal-translator-app-for-android-with-kotlin-ff9d21ae818)
+- [Creating an offline translation Android app using Firebase ML Kit](https://heartbeat.fritz.ai/creating-an-offline-translation-android-app-using-firebase-ml-kit-d7d0fc5d8813?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Model Conversion/Deployment/Management
 
