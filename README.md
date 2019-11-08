@@ -386,6 +386,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Using TensorFlow.js to Train a “Rock-Paper-Scissors” Model](https://heartbeat.fritz.ai/using-tensorflow-js-to-train-a-rock-paper-scissors-model-b5f393b548eb)
 - [The Big Benchmarking Roundup](https://blog.hackster.io/the-big-benchmarking-roundup-a561fbfe8719)
 - [Comprehensive TensorFlow.js Example](https://towardsdatascience.com/comprehensive-tensorflow-js-example-96367625fab7)
+- [Fruit identification using Arduino and TensorFlow](https://blog.arduino.cc/2019/11/07/fruit-identification-using-arduino-and-tensorflow/)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
