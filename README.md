@@ -220,6 +220,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Building a Sound Classification iOS Application using AI](https://heartbeat.fritz.ai/building-a-sound-classification-ios-application-using-ai-1655506d1763?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Data-Free Speech Translator using SFSpeechRecognizer and ML Kit on iOS](https://heartbeat.fritz.ai/data-free-speech-translator-using-sfspeechrecognizer-and-ml-kit-on-ios-64b4c9bbc303?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [iOS On-Device Speech Recognition](https://medium.com/better-programming/ios-speech-recognition-on-device-e9a54a4468b5)
+- [Sound Classification on iOS Using Core ML 3 and Create ML](https://heartbeat.fritz.ai/sound-classification-using-core-ml-3-and-create-ml-fc73ca20aff5?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Model Conversion/Deployment/Management
 
@@ -302,6 +303,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Flutter Face Detection](https://medium.com/flutter-community/flutter-face-detection-ac18e3e2211f)
 - [End-to-End tf.Keras to TFLite to Android](https://medium.com/@margaretmz/e2e-tfkeras-tflite-android-273acde6588)
 - [PyTorch Mobile: Image classification on Android](https://heartbeat.fritz.ai/pytorch-mobile-image-classification-on-android-5c0cfb774c5b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [CameraX: ‘The’ Machine Learning Camera Library for Android](https://heartbeat.fritz.ai/camerax-the-machine-learning-camera-library-for-android-10e2f234e62d?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Natural Language Processing
 
