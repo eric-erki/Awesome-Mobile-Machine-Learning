@@ -215,6 +215,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Text Classification on iOS Using Create ML](https://heartbeat.fritz.ai/text-classification-on-ios-using-create-ml-f71d7191404a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [4 Techniques You Must Know for Natural Language Processing on iOS](https://heartbeat.fritz.ai/4-techniques-you-must-know-for-natural-language-processing-on-ios-7bfcd5da9d20?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Easy Topic Classifier on iOS with Apple’s Natural Language Framework](https://heartbeat.fritz.ai/easy-topic-classifier-on-ios-with-apples-natural-language-framework-f9825143ecdb?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Classifying Movie Reviews With Natural Language Framework](https://towardsdatascience.com/classifying-movie-reviews-with-natural-language-framework-12dfe2fc3308)
 
 ### Speech / Audio
 
