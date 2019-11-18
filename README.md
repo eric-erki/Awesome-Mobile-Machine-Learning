@@ -306,6 +306,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [End-to-End tf.Keras to TFLite to Android](https://medium.com/@margaretmz/e2e-tfkeras-tflite-android-273acde6588)
 - [PyTorch Mobile: Image classification on Android](https://heartbeat.fritz.ai/pytorch-mobile-image-classification-on-android-5c0cfb774c5b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [CameraX: ‘The’ Machine Learning Camera Library for Android](https://heartbeat.fritz.ai/camerax-the-machine-learning-camera-library-for-android-10e2f234e62d?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Image Classification on Android with TensorFlow Lite and CameraX](https://heartbeat.fritz.ai/image-classification-on-android-with-tensorflow-lite-and-camerax-4f72e8fdca79?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Natural Language Processing
 
