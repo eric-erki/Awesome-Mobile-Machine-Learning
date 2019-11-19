@@ -76,6 +76,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Create ML](https://developer.apple.com/documentation/createml): Use Create ML with familiar tools like Swift and macOS playgrounds to create and train custom machine learning models on your Mac.
 - [Turi Create API](https://apple.github.io/turicreate/docs/api/): Turi Create simplifies the development of custom machine learning models. You don’t have to be a machine learning expert to add recommendations, object detection, image classification, image similarity or activity classification to your iOS app.
 - [ML Kit](https://developers.google.com/ml-kit/): ML Kit beta brings Google’s machine learning expertise to mobile developers in a powerful and easy-to-use package.
+- [PyTorch Mobile](https://pytorch.org/mobile/home/): PyTorch Mobile is a new framework for helping mobile developers and machine learning engineers embed PyTorch ML models on-device.
 - [QNNPACK](https://github.com/pytorch/QNNPACK): QNNPACK (Quantized Neural Networks PACKage) is a mobile-optimized library for low-precision high-performance neural network inference. QNNPACK provides implementation of common neural network operators on quantized 8-bit tensors.
 
 ## Mobile-Compatible <a name="mobilecompatible"></a>
