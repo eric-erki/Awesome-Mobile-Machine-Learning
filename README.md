@@ -259,6 +259,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Create ML for iOS— Increasing model accuracy](https://heartbeat.fritz.ai/create-ml-for-ios-increasing-model-accuracy-a7474967123b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Incorporating machine learning into iOS Apps](https://medium.com/@pradnya_nikam/incorporating-machine-learning-into-ios-apps-a5eb8bccd915)
 - [Exploring Use Cases of Core ML Tools](https://heartbeat.fritz.ai/exploring-use-cases-of-core-ml-tools-9fbc0fde72e7?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [How to convert a NN model from TensorFlow Lite to CoreML](https://blog.xmartlabs.com/2019/11/22/TFlite-to-CoreML/)
 
 ### Other
 
