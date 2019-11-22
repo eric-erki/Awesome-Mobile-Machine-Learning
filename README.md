@@ -33,6 +33,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 
 ## (Mostly) Non-Code Primers on Mobile Machine Learning <a name="primers"></a>
 
+- [Machine learning on mobile: What can you actually do with it?](https://heartbeat.fritz.ai/machine-learning-on-mobile-what-can-you-actually-do-with-it-8437fa782165?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Machine Learning and the Future of Mobile App Development](https://heartbeat.fritz.ai/machine-learning-and-the-future-of-mobile-app-development-13dd2aeda533?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Machine Learning on Mobile Devices: 3 Steps for Deploying ML in Your Apps](https://heartbeat.fritz.ai/machine-learning-on-mobile-devices-3-steps-for-deploying-it-in-your-apps-48a0a24364a8?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Embracing Machine Learning as a Mobile Developer](https://heartbeat.fritz.ai/embracing-machine-learning-as-a-mobile-developer-4ebcda58d4ac?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
