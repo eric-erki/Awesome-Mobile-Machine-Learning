@@ -425,6 +425,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Machine Learning with Core ML: An iOS developer’s guide to implementing machine learning in mobile apps](https://www.amazon.com/Machine-Learning-Core-developers-implementing/dp/1788838297)
 - [Machine Learning with Swift](https://www.packtpub.com/big-data-and-business-intelligence/machine-learning-swift)
 - [Building Mobile Applications with TensorFlow](https://get.oreilly.com/ind_building-mobile-applications-with-tensorflow.html)
+- [Practical Artificial Intelligence with Swift](http://shop.oreilly.com/product/0636920214946.do)
 
 ### Android <a name="androidvideos"></a>
 
