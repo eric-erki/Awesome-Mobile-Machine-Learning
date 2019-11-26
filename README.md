@@ -265,6 +265,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 ### Other
 
 - [Ray Wenderlich iOS Machine Learning Tutorials](https://www.raywenderlich.com/library?domain_ids%5B%5D=1&category_ids%5B%5D=158)
+- [Build a Core ML Recommender Engine for iOS Using Create ML](https://heartbeat.fritz.ai/build-a-core-ml-recommender-engine-for-ios-using-create-ml-e8a748d01ba3?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ## Android <a name="androidtutorials"></a>
 
