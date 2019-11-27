@@ -57,6 +57,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [On-Device AI: MIT Technology Review Hub](https://www.technologyreview.com/hub/ubiquitous-on-device-ai/)
 - [The 5 Algorithms for Efficient Deep Learning Inference on Small Devices](https://heartbeat.fritz.ai/the-5-algorithms-for-efficient-deep-learning-inference-on-small-devices-bcc2d18aa806?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [PyTorch Mobile: Exploring Facebook’s new mobile machine learning solution](https://heartbeat.fritz.ai/pytorch-mobile-exploring-facebooks-new-mobile-machine-learning-solution-96c99efbfd58?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [AI in the Browser](https://codeburst.io/ai-in-the-browser-939d8ab387a2)
 
 ## Getting Started with Data Science and Machine Learning <a name="dsml"></a>
 
