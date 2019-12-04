@@ -203,6 +203,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Adding custom object detection to an iOS app with Turi Create and Fritz AI](https://heartbeat.fritz.ai/adding-custom-object-detection-to-an-ios-app-with-turi-create-and-fritz-ai-89569aaa82b7?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Building a multi-class image classifier on iOS](https://heartbeat.fritz.ai/building-a-multi-class-image-classifier-on-ios-2e5df50a1655?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Simple Semantic Image Segmentation in an iOS Application — DeepLabV3 Implementation](https://heartbeat.fritz.ai/simple-semantic-image-segmentation-in-an-ios-application-deeplabv3-implementation-7f9d0cd6ea1a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [License Plate Recognition, Detection, and Plate Number Extraction on iOS](https://heartbeat.fritz.ai/license-plate-recognition-detection-and-plate-number-extraction-on-ios-827035bffa41?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Natural Language Processing
 
