@@ -374,6 +374,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Real-time Mobile Video Object Detection using Tensorflow](https://towardsdatascience.com/real-time-mobile-video-object-detection-using-tensorflow-a75fa0c5859d)
 - [Create AR experiences with the Fritz Unity SDK — Bird Perch Tutorial with Pose Estimation](https://heartbeat.fritz.ai/create-ar-experiences-with-the-fritz-unity-sdk-bird-perch-tutorial-with-pose-estimation-aff5b85c633b?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Image Classification on React Native with TensorFlow.js and MobileNet](https://heartbeat.fritz.ai/image-classification-on-react-native-with-tensorflow-js-and-mobilenet-48a39185717c)
+- [Training a TensorFlow Lite model for mobile using AutoML Vision Edge](https://heartbeat.fritz.ai/training-a-tensorflow-lite-model-for-mobile-using-automl-vision-edge-1eb61e00be47??utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Edge/Browser
 
