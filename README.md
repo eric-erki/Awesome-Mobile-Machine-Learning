@@ -205,6 +205,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Simple Semantic Image Segmentation in an iOS Application — DeepLabV3 Implementation](https://heartbeat.fritz.ai/simple-semantic-image-segmentation-in-an-ios-application-deeplabv3-implementation-7f9d0cd6ea1a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [License Plate Recognition, Detection, and Plate Number Extraction on iOS](https://heartbeat.fritz.ai/license-plate-recognition-detection-and-plate-number-extraction-on-ios-827035bffa41?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Computer Vision in iOS: Determine the Best Facial Expression in Live Photos](https://heartbeat.fritz.ai/computer-vision-in-ios-determine-the-best-facial-expression-in-live-photos-452a2eaf6512?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Compute Image Similarity Using Computer Vision in iOS](https://heartbeat.fritz.ai/compute-image-similarity-using-computer-vision-in-ios-75b4dcdd095f??utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Natural Language Processing
 
