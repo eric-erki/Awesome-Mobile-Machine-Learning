@@ -345,6 +345,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [From Keras to ML Kit](https://proandroiddev.com/from-keras-to-ml-kit-eeaf578a01df)
 - [Using TensorFlow Lite on Android](https://medium.com/tensorflow/using-tensorflow-lite-on-android-9bbc9cb7d69d)
 - [Using Deep Learning and Neural Networks in Android Applications](https://deeplearning4j.org/docs/latest/deeplearning4j-android)
+- [Loading and running a quantized TensorFlow Lite model on Android](https://heartbeat.fritz.ai/loading-and-running-a-quantized-tensorflow-lite-model-on-android-18aa7505076a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ## Cross/Multi-Platform and IoT/Edge <a name="crosstutorials"></a>
 
