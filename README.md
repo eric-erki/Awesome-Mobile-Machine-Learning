@@ -408,10 +408,11 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Getting Started with Edge AI Using the GAP8 Processor](https://blog.hackster.io/getting-started-with-edge-ai-using-the-gap8-processor-f207b511a00c)
 - [Real-Time Person Tracking on the Edge with a Raspberry Pi](https://heartbeat.fritz.ai/real-time-person-tracking-on-the-edge-with-a-raspberry-pi-93ae636af9fa)
 - [Building Brains on the Edge](https://blog.hackster.io/building-brains-on-the-edge-245ce1153eb1)
-- [Using TensorFlow.js to Train a “Rock-Paper-Scissors” Model](https://heartbeat.fritz.ai/using-tensorflow-js-to-train-a-rock-paper-scissors-model-b5f393b548eb)
+- [Using TensorFlow.js to Train a “Rock-Paper-Scissors” Model](https://heartbeat.fritz.ai/using-tensorflow-js-to-train-a-rock-paper-scissors-model-b5f393b548eb?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [The Big Benchmarking Roundup](https://blog.hackster.io/the-big-benchmarking-roundup-a561fbfe8719)
 - [Comprehensive TensorFlow.js Example](https://towardsdatascience.com/comprehensive-tensorflow-js-example-96367625fab7)
 - [Fruit identification using Arduino and TensorFlow](https://blog.arduino.cc/2019/11/07/fruit-identification-using-arduino-and-tensorflow/)
+- [AutoML Vision Edge: Build machine learning models for mobile and edge devices—in hours](https://heartbeat.fritz.ai/automl-vision-edge-build-machine-learning-models-for-mobile-and-edge-devices-in-hours-a2a3030dfa0e?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
