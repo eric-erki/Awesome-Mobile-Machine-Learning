@@ -269,6 +269,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [How to convert a NN model from TensorFlow Lite to CoreML](https://blog.xmartlabs.com/2019/11/22/TFlite-to-CoreML/)
 - [MLDataTable: The Panda For iOS Developers](https://towardsdatascience.com/mldatatable-the-panda-for-ios-developers-251aa9a09eb1)
 - [How to convert images to MLMultiArray](https://machinethink.net/blog/coreml-image-mlmultiarray/)
+- [Swift loves TensorFlow and Core ML](https://heartbeat.fritz.ai/swift-loves-tensorflow-and-core-ml-8adb52838931?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Other
 
