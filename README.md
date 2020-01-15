@@ -326,6 +326,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Image Labeling on Android in Kotlin using Fritz AI and CameraX](https://heartbeat.fritz.ai/image-labeling-on-android-in-kotlin-using-fritz-ai-and-camerax-1466089b2e34??utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Style Transfer on Android in Kotlin using Fritz AI and CameraX](https://heartbeat.fritz.ai/style-transfer-on-android-in-kotlin-using-fritz-ai-and-camerax-dbf7859daa30?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Blink detection on Android using Firebase ML Kit’s Face Detection API](https://heartbeat.fritz.ai/blink-detection-on-android-using-firebase-ml-kits-face-detection-api-6d09823db535??utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Detecting cropped faces in images using the Fritz Pose Estimation API](https://heartbeat.fritz.ai/detecting-cropped-faces-in-images-using-the-fritz-pose-estimation-api-26082418e049?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Natural Language Processing
 
