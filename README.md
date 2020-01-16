@@ -416,6 +416,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Fruit identification using Arduino and TensorFlow](https://blog.arduino.cc/2019/11/07/fruit-identification-using-arduino-and-tensorflow/)
 - [AutoML Vision Edge: Build machine learning models for mobile and edge devices—in hours](https://heartbeat.fritz.ai/automl-vision-edge-build-machine-learning-models-for-mobile-and-edge-devices-in-hours-a2a3030dfa0e?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [Creating a TensorFlow Lite Object Detection Model using Google Cloud AutoML](https://heartbeat.fritz.ai/creating-a-tensorflow-lite-object-detection-model-using-google-cloud-automl-d83f997c1848?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [AutoML Vision Edge: Exporting and Loading TensorFlow SavedModels with Python](https://heartbeat.fritz.ai/automl-vision-edge-exporting-and-loading-tensorflow-saved-models-with-python-f4e8ce1b943a?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ## Online Courses, Videos, & E-Books <a name="videos"></a>
 
