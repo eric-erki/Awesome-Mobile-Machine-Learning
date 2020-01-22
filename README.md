@@ -233,6 +233,7 @@ Fritz AI helps you teach your applications how to see, hear, sense, and think. C
 - [Data-Free Speech Translator using SFSpeechRecognizer and ML Kit on iOS](https://heartbeat.fritz.ai/data-free-speech-translator-using-sfspeechrecognizer-and-ml-kit-on-ios-64b4c9bbc303?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 - [iOS On-Device Speech Recognition](https://medium.com/better-programming/ios-speech-recognition-on-device-e9a54a4468b5)
 - [Sound Classification on iOS Using Core ML 3 and Create ML](https://heartbeat.fritz.ai/sound-classification-using-core-ml-3-and-create-ml-fc73ca20aff5?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
+- [Speech recognition and speech synthesis on iOS with Swift](https://heartbeat.fritz.ai/speech-recognition-and-speech-synthesis-on-ios-with-swift-d1a63e469cd9?utm_source=github&utm_campaign=awesome_mobile_machine_learning)
 
 ### Model Conversion/Deployment/Management
 
